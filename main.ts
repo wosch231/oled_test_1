@@ -17,7 +17,6 @@ let xn = 0
 basic.showIcon(IconNames.Surprised)
 kitronik_VIEW128x64.clear()
 kitronik_VIEW128x64.refresh()
-xn = -30
+xn = 0
 yn = 0
 oled_z.oled_Kreis(64 + xn, 32 + yn, 20)
-kitronik_VIEW128x64.drawRect(50, 50, 8, 8)

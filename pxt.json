@@ -1,12 +1,12 @@
 {
-    "name": "oled_test_1",
+    "name": "oled_test_2",
     "description": "",
     "dependencies": {
         "core": "*",
         "radio": "*",
         "microphone": "*",
         "pxt-kitronik-128x64display": "github:kitronikltd/pxt-kitronik-128x64display#v0.4.0",
-        "128x64 Display": "github:wosch231/128x64-display_z#1cd43edefef345e4115f168286bc59de027445c3"
+        "128x64 Display": "github:wosch231/128x64-display_z#ea8855c91d46bced167d973ed1df09ae70ab2fbf"
     },
     "files": [
         "main.blocks",
